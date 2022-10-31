@@ -1,0 +1,6 @@
+Right-click "My Computer" & select "Properties."
+Click "Advanced" tab.
+Click "Environment Variables" button.
+In the "System variables" box, scroll down to "PATH" and highlight it.
+Click the "Edit" button.
+In the "Variable value:" box, add to the very beginning of the text "C:\WINDOWS\system32;" without my quotation marks.
